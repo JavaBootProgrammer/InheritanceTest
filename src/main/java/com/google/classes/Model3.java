@@ -1,6 +1,6 @@
 package com.google.classes;
 
-import com.google.interfaces.classes.IModel3;
+import com.google.interfaces.IModel3;
 
 public class Model3 implements IModel3 {
 

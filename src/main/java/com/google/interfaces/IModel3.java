@@ -1,4 +1,4 @@
-package com.google.interfaces.classes;
+package com.google.interfaces;
 
 import java.awt.*;
 
